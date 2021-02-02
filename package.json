@@ -1,0 +1,28 @@
+{
+  "name": "texty",
+  "version": "1.0.0",
+  "description": "A test editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-p-s-o/text-editor.git"
+  },
+  "keywords": [
+    "Text",
+    "editor",
+    "electronjs",
+    "electron",
+    "js",
+    "nodejs"
+  ],
+  "author": "jpso",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/parallel-labs/text-editor/issues"
+  },
+  "homepage": "https://github.com/parallel-labs/text-editor#readme"
+}
